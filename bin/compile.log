@@ -1,9 +1,0 @@
-Log:
-Checking dependecies for lexer.o:
-lexer.c is unchanged
-include/lexer.h is unchanged
-Checking dependecies for main.o:
-main.c is modified or main.o does not exist
-include/lexer.h is unchanged
-Compiling main.c
-Creating shell in bin
